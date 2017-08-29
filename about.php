@@ -45,7 +45,8 @@
         <div class="row">
           <div class="col-xs-12 col-md-6">
             <h4>Josua Gonzales-Neal</h4>
-            <p></p>
+            <p> I am studying Software Engineering. I worked for a local company name Boxer Property in Houston, Texas as a mobile and web developer creating a app to help service building problems. I worked at iRobot this past summer a mobile developer for Android and iOS working on bugs, push notifications, and provisioning of iRobot’s Roomba, Braava platform. I have worked on projects with Web Design, Mobile UI, embedded systems, and operating systems.
+            </p>
           </div>
           <div class="col-xs-12 col-md-6">
             <img src="https://www.stockvault.net/data/2008/12/29/107108/thumb16.jpg" class="img-rounded img-responsive">
