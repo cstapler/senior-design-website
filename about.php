@@ -13,6 +13,11 @@
           </div>
         </div>
         <div class="row">
+          <div class="col-xs-12">
+            <hr>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-xs-12 col-md-6">
             <h4>Chandler Chockalingam</h4>
             <p> I am studying Software Engineering. I have completed three software engineering internships; two with UTC Aerospace Systems and one with Boeing. During my two internships with UTC Aerospace Systems, I worked on projects related to embedded systems and database management. During my internship this past summer with Boeing, I worked on a deep learning project that included writing Python code to build neural networks to analyze flight data. I have completed coursework at Iowa State in embedded systems, database management, operating systems, user interfaces, software architecture, and software project management.

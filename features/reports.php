@@ -12,6 +12,21 @@
             <h3>Weekly Reports</h3>
           </div>
         </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <hr>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12 col-md-8 col-md-offset-2">
+            <div class="list-group">
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_report01.pdf">Status Report 1</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_report02.pdf">Status Report 2</a>
+            </div>
+          </div>
+        </div>
       </div>
     </main>
     <!-- /main -->
