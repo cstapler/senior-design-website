@@ -20,7 +20,7 @@
           <div class="col-xs-12 col-md-8 col-md-offset-2">
             <div class="list-group">
               <a class="list-group-item"
-                  href="/docs/project_plan.pdf">Project Plan</a>
+                  href="/docs/project_plan_v1.pdf">Project Plan V1</a>
             </div>
           </div>
         </div>
