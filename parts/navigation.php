@@ -87,8 +87,8 @@
 					<a class="target-offset dropdown-toggle" href="/features" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false" data-submenu="" tabindex="0">Documents</a>
 					<a class="dropdown-toggle-mobile" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"></a>
 					<ul class="dropdown-menu" role="menu">
+						<li><a href="/features" tabindex="0">Design Documents</a></li>
 						<li><a href="/features/reports.php" tabindex="0">Weekly Reports</a></li>
-						<li><a href="/features/documents.php" tabindex="0">Design Documents</a></li>
 						<li><a href="/features/other.php" tabindex="0">Other</a></li>
 					</ul>
 				</li>
