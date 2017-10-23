@@ -27,7 +27,9 @@
               <a class="list-group-item"
                   href="/docs/sdmay18-34_report03.pdf">Status Report 3</a>
               <a class="list-group-item"
-                    href="/docs/sdmay18-34_report04.pdf">Status Report 4</a>
+                  href="/docs/sdmay18-34_report04.pdf">Status Report 4</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_report05.pdf">Status Report 5</a>
             </div>
           </div>
         </div>
