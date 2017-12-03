@@ -23,6 +23,8 @@
                   href="/docs/project_plan_v1.pdf">Project Plan V1</a>
               <a class="list-group-item"
                   href="/docs/project_plan_v2.pdf">Project Plan V2</a>
+              <a class="list-group-item"
+                  href="/docs/project_plan_v3.pdf">Project Plan V3</a>
             </div>
           </div>
         </div>
