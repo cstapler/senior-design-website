@@ -24,7 +24,7 @@
             </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="http://s3.thingpic.com/images/ZT/2Wxc6rj7mAfde18uRHGZvaM1.jpeg" class="img-rounded img-responsive">
+            <img src="/images/chandler.png" class="img-rounded img-responsive">
           </div>
         </div>
         <div class="row">
@@ -39,7 +39,7 @@
             </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="https://static.pexels.com/photos/33045/lion-wild-africa-african.jpg" class="img-rounded img-responsive">
+            <img src="/images/victor.png" class="img-rounded img-responsive">
           </div>
         </div>
         <div class="row">
@@ -54,7 +54,7 @@
             </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="https://www.stockvault.net/data/2008/12/29/107108/thumb16.jpg" class="img-rounded img-responsive">
+            <img src="/images/josh.jpg" class="img-rounded img-responsive">
           </div>
         </div>
         <div class="row">
@@ -68,7 +68,7 @@
             <p>  I am studying Software Engineering. I have just finished my first Software Engineering internship working with the security company WatchGuard Technologies working on UI/UX and Web Development. The work that I did mostly involved using Python, XSLT, and web development tools such as JavaScript, HTML, and PHP. At Iowa State I have worked with embedded systems, web development, and Android Development. I am also working on a side project that will use Arduino boards and a Google Home/Amazon Echo to communicate with a self built machine to pour mixed drinks            </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="https://images4.alphacoders.com/780/78068.jpg" class="img-rounded img-responsive">
+            <img src="/images/logan.png" class="img-rounded img-responsive">
           </div>
         </div>
       <div class="row">
@@ -84,7 +84,7 @@
             </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="https://static.pexels.com/photos/145939/pexels-photo-145939.jpeg" class="img-rounded img-responsive">
+            <img src="/images/jason.jpg" class="img-rounded img-responsive">
           </div>
         </div>
         <div class="row">
@@ -110,7 +110,7 @@
             </p>
           </div>
           <div class="col-xs-12 col-md-6">
-            <img src="http://elelur.com/data_images/mammals/cougar/cougar-07.jpg" class="img-rounded img-responsive">
+            <img src="/images/chris.jpg" class="img-rounded img-responsive">
           </div>
         </div>
       </div>
