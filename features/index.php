@@ -33,6 +33,8 @@
             <div class="list-group">
               <a class="list-group-item"
                   href="/docs/design_document_v1.pdf">Design Document V1</a>
+              <a class="list-group-item"
+                  href="/docs/design_document_v2.pdf">Design Document V2</a>
             </div>
           </div>
         </div>
