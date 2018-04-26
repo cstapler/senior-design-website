@@ -14,10 +14,18 @@
         <div class="row">
           <div class="col-xs-12">
             <hr>
-          </div>
+          </div >
         </div>
         <div class="row">
           <div class="col-xs-12 col-md-8 col-md-offset-2">
+            <h4> Spring 2018 </h4>
+            <div class="list-group">
+              <a class="list-group-item"
+                  href="/docs/Final_Report_s2.pdf">Final Report</a>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-8 col-md-offset-2">
+            <h4> Fall 2017 </h4>
             <div class="list-group">
               <a class="list-group-item"
                   href="/docs/project_plan_v1.pdf">Project Plan V1</a>
@@ -25,12 +33,7 @@
                   href="/docs/project_plan_v2.pdf">Project Plan V2</a>
               <a class="list-group-item"
                   href="/docs/project_plan_v3.pdf">Project Plan V3</a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-md-8 col-md-offset-2">
-            <div class="list-group">
+              <br>
               <a class="list-group-item"
                   href="/docs/design_document_v1.pdf">Design Document V1</a>
               <a class="list-group-item"

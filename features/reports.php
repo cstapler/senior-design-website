@@ -18,7 +18,30 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-xs-12 col-md-8 col-md-offset-2">
+          <div class="col-xs-6 col-md-4 col-md-offset-2">
+            <h4>Spring 2018</h4>
+            <div class="list-group">
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report01.pdf">Bi-Weekly Status Report 1</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report02.pdf">Bi-Weekly Status Report 2</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report03.pdf">Bi-Weekly Status Report 3</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report04.pdf">Bi-Weekly Status Report 4</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report05.pdf">Bi-Weekly Status Report 5</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report06.pdf">Bi-Weekly Status Report 6</a>
+              <a class="list-group-item"
+                  href="/docs/sdmay18-34_bi_weekly_report07.pdf">Bi-Weekly Status Report 7</a>
+              <a class="list-group-item">&nbsp;</a>
+              <a class="list-group-item">&nbsp;</a>
+              <a class="list-group-item">&nbsp;</a>
+            </div>
+          </div>
+          <div class="col-xs-6 col-md-4">
+            <h4>Fall 2017</h4>
             <div class="list-group">
               <a class="list-group-item"
                   href="/docs/sdmay18-34_report01.pdf">Status Report 1</a>

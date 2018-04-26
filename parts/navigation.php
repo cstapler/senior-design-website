@@ -89,7 +89,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="/features" tabindex="0">Design Documents</a></li>
 						<li><a href="/features/reports.php" tabindex="0">Weekly Reports</a></li>
-						<li><a href="/features/other.php" tabindex="0">Other</a></li>
+						<li><a href="/features/presentations.php" tabindex="0">Presentation Slides</a></li>
 					</ul>
 				</li>
 				<li><a href="/about.php">About the Team</a></li>
