@@ -9,7 +9,7 @@
     	<div class="container">
         <div class="row">
         	<div class="col-xs-12 col-md-12">
-            <h3>Presentation Slides</h3>
+            <h3>Other</h3>
           </div>
         </div>
         <div class="row">
@@ -18,6 +18,8 @@
             <div class="list-group">
               <a class="list-group-item"
                   href="/docs/IRP_Presentation.pdf">Final Presentation 492</a>
+              <a class="list-group-item"
+                  href="/docs/final_poster.pdf">Final Poster 492</a>
             </div>
           </div>
           <div class="col-xs-12 col-md-8 col-md-offset-2">

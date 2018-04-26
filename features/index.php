@@ -21,7 +21,7 @@
             <h4> Spring 2018 </h4>
             <div class="list-group">
               <a class="list-group-item"
-                  href="/docs/Final_Report_s2.pdf">Final Report</a>
+                href="/docs/Final_Report_s2.pdf">Final Report</a>
             </div>
           </div>
           <div class="col-xs-12 col-md-8 col-md-offset-2">
